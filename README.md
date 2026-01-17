@@ -445,7 +445,7 @@ npx tsx scripts/seed-data.ts
 
 ## 🤝 Contributing
 
-We welcome contributions! Here's how you can help:
+We welcome contributions! Here's how you can help :
 
 ### 🐛 Report Bugs
 
